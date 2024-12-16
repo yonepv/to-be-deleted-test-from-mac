@@ -7,3 +7,4 @@ Test 20241205 - Git personal account
 It is supposed to commit wuth my personal email to my personal repo.
 Trying to adjust the signture. It should be ok.
 Testing extensions git-autoconfig and github pull requests
+Testing author, which one? work? or personal?
